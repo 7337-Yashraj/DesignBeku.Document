@@ -1,0 +1,18 @@
+- Try to break down the principles/ethos/ethics/ideas into chunks --- WHAT ARE THEY TRYING TO DO
+	- WITH WHOM
+	- WHAT
+	- HOW
+	- WHY
+	- ASK these QUESTIONS
+		- Document later
+			- What Implication does this have
+			- How does this pedagogy and approach change things
+			- Why does this matter
+				- How and what does this relate with things studied earlier
+	- Learnings
+		- Can attitude and behaviours made into "HABITS"
+			- How does this learning transcend and transform
+			- Can should there be a check-list
+	- How does it differ across different perspectives - people who have worked on different projects
+	- Can and should I represent my learnings in the way of how I would now do the things differently
+	-

@@ -1,1 +1,1 @@
-- Hello [[Introduction]]
+- Hello [[Design Beku Document]]
