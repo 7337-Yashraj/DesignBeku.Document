@@ -22,11 +22,13 @@
 			- "Whom do we listen to?" ``NO``
 			- What should drive us in all our steps - the CENTER the voices.
 		- ^^PRINCIPLE 3^^
+		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  We prioritize design’s impact on the community over the intentions of the designer.
 			  #+END_QUOTE
 		- ^^PRINCIPLE 4^^
+		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  We view change as emergent from an accountable, accessible, and collaborative process, rather than as a point at the end of a process.
@@ -34,34 +36,39 @@
 			- The process is what matters.
 			- Means are as important as end.
 		- ^^PRINCIPLE 5^^
+		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  We see the role of the designer as a facilitator rather than an expert.
 			  #+END_QUOTE
 		- ^^PRINCIPLE 6^^
+		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  We believe that everyone is an expert based on their own lived experience, and that we all have unique and brilliant contributions to bring to a design process.
 			  #+END_QUOTE
 		- ^^PRINCIPLE 7^^
+		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  We share design knowledge and tools with our communities.
 			  #+END_QUOTE
 		- ^^PRINCIPLE 8^^
+		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  We work towards sustainable, community-led and -controlled outcomes.
 			  #+END_QUOTE
 		- ^^PRINCIPLE 9^^
+		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  We work towards non-exploitative solutions that reconnect us to the earth and to each other.
 			  #+END_QUOTE
 		- ^^PRINCIPLE 10^^
+		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  Before seeking new design solutions, we look for what is already working at the community level. We honor and uplift traditional, indigenous, and local knowledge and practices.
 			  #+END_QUOTE
-		-
 -
