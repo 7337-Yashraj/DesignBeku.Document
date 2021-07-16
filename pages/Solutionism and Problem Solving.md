@@ -5,12 +5,12 @@
 		- Looking towards saving the marginalized.
 		- Broad brushstroke like solution, that was driven by the desire to ^^SOLVE.^^
 	- Treatment of subjects like objects that are marginalized due to conditions befallen on them.
-	- Single thing that can
+	- Single thing that can bring about change.
 	- #### Decolonialize Design
 		- Influenced by the theory of [[Decolonizng Design]] propagated by Ahmed Ansari, and others.
 		- Questions that I had
 			- What does Decolonizing mean in the Indian Subcontinental context?
-			-
+			- What role does caste play in this?
 	- #### Digital Interfaces for illiterate users
 		- EdTech Hubs principles
 		- What does the interface mean?

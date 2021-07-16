@@ -1,2 +1,0 @@
-- How does the notion of care work in the context that Design Beku functions in?
-- The concept of care being a situated in-practice exercise

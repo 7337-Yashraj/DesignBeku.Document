@@ -1,7 +1,0 @@
-- This is a **dynamic document**, working across different dimensions, to represent **different aspects of the collective**, and document their ethos, principles and way of day-to-day functioning. 
-  background-color:: #787f97
-	- This is not a linear document that you would have to go through from one page to another.
-	- Treat it as a ^^series of conversations^^, and ^^discussions^^ that have been deliberated upon by the members and friends of the collective.
-- This document is an exercise into ^^documenting^^ the above said explorations and discussions **to identify a shared set of values for functioning, and being.** and ^^present my responses^^ to these collected understandings.
-- It is a breathing and living piece of work which will get updated as we mature and grow.
-- Feel free to start reading about us from here: [[Guiding Principles]]

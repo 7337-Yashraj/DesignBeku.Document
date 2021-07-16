@@ -3,7 +3,7 @@
 	- WHAT
 	- HOW
 	- WHY
-	- ASK these QUESTIONS
+	- ASK these QUESTIONS to self
 		- Document later
 			- What Implication does this have
 			- How does this pedagogy and approach change things
