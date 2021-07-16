@@ -4,5 +4,5 @@
   source:: [["CORE PRINCIPLES"]] [[Principles of Design Justice Network]]
   keywords:: Influences ; Anti-Ideology
   ideas:: How things work together
-### Principles of Design Justice Network
+### Solutionism & Problem Solving
 	-
