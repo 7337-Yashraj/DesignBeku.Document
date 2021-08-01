@@ -1,3 +1,9 @@
+- TYPE
+  template:: [[Literature Notes]]
+- REFERENCES
+  source:: DB Fundamental Doc; DB Townhall Manifesto;
+  authors:: The DB Team; Participants
+  summary:: What does Problem Solving mean for people whom we are designing for
 ### Previously The Approaches that I had
 	- To create impactful grassroots change that can solve the wicked problems faced by the marginalized and can be scaled onto different laterals. This is the buzzword of our times.
 		- We looked towards "engaging" with the "stakeholders" making sure that the designs we build are "human-centered"
@@ -16,3 +22,5 @@
 		- What does the interface mean?
 		- The idea of it being the first step of interaction between the systems of the state and the individual
 - Oppression vs Marginalization
+- Solutionism how it exists --
+	- Design thinking with it's shrouds of majestic identity

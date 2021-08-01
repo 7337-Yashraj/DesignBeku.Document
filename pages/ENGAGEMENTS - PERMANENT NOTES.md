@@ -1,0 +1,2 @@
+- TYPE
+  template:: [[Permanent Notes]]

@@ -1,5 +1,5 @@
 - TYPE
-  template:: MILESTONE
+  template:: [[Milestone]]
 - REFERENCES
   authors:: Me
   summary:: A set of questions that I had in-between and during the process of going through the different references; a collection of driving questions that influenced how I treated the given material
@@ -32,7 +32,7 @@
 		- Does this also from a desire to control and drive
 			- IS this the ^^CENTRAL IDEA??^^ - The drive to be in the drivers seat.
 				- Whereas whatever we do, the identity should be a product of the lived experience of the marginalized individual
-				- The state as the giver of rights | The beurocracy as the enforcer
+				- The state as the giver of rights | The beaurocracy as the enforcer
 					- Does individual hopes, aspirations, identities, ideas, being and habits come into the picture? when it comes to participating with, taking a part, or is it
 						- Pre-conceived, pre-made, and thought after
 					- Is this the question that needs to be asked?

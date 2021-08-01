@@ -1,0 +1,13 @@
+- The fragility and beauty in the relationship between the maker of the object, and the identity of the maker.
+	- The care that exists, in a cycle of rundown painful in a complicated lives that they lead
+	- Banality of everyday living, becomes a part of the creator and transfers onto the work.
+	- Work is an extension, of the individual, likewise the context that the individual exists also is represented onto the work.
+- Questions of Access -
+- Notion of Care
+- Existing in the in-between:
+- Presence of the non-projects
+- Persuade external factors to understand the manner of functioning
+- "...independent of those outside our communities giving meaning to the stories. Independent of them deciding whether or not our stories have value, of them deciding who gets the girl in the end."
+- "I’ve come to see that the chanting and marching are important, but it’s important to gather people in other ways, too; to circle and sit and tell the stories that aren’t told enough, to share the stories, to repeat and broadcast them, that they might strengthen. Sometimes I wonder whether it’s this work that matters most of all. Square-one work. The stories are what soften people, after all: open hearts so that it might be possible to think and see differently, so that we might find the fire to march at all..."
+  collapsed:: true
+	-

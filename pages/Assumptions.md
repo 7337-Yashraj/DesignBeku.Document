@@ -1,0 +1,6 @@
+- The cycle of design thinking, design problem solving, user/human centered design process has clearly demarcated lines between different stages which a practitioner can flexibly move in through with his/her knowledge, insights, and assumptions, this being the way how things currently function.
+- Something that I found inspiring was the way Naveen talks about how his assumptions about the way a certain solution/recommendation would play out as he works with the Health Navigators; would be way off the mark.
+	- There is an acceptance of the fact that in reality, situations and plans that are made out there on the planning board wont play out in the way planned and expected.
+-
+- Designers are not the ones who have innovated the first, and certainly wont be the last
+- If our assumptions are wrong by the time we are somewhere  in-between the project phase, then it is often a good sign that we are on the right track.

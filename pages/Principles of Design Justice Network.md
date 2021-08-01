@@ -1,11 +1,16 @@
 - TYPE
-  template:: Literature Notes
+  template:: [[Literature Notes]]
 - REFERNCES
   source:: Design Justice Network
   link:: https://designjustice.org/read-the-principles
   summary:: Notes about the Principles of Design Justice Network
 ### Literature Notes
 	- #### Principles of Design Justice Network
+		- The point of this story is to provide a small but concrete example from my own daily lived experience of how larger systems—including norms, values, and assumptions—are encoded in and reproduced through the design of sociotechnical systems, or in political theorist Langdon Winner’s famous words, how “artifacts have politics.
+		- cis-normativity is enforced at multiple levels of a traveler’s interaction with airport security systems.
+		- The goal of the workshop was to move beyond the frames of social impact design or design for good, to challenge designers to think about how good intentions are not necessarily enough to ensure that design processes and practices become tools for liberation, and ==to develop principles that might help design practitioners avoid the (often unwitting) reproduction of existing inequalities.==
+		- As Browne discusses, and as Joy Buolamwini, founder of the Algorithmic Justice League, technically demonstrates, gender itself is racialized
+		- Reasoning through design is a mode of knowledge production that is neither primarily deductive nor inductive, but rather abductive and speculative.
 		- ^^PRINCIPLE 1^^
 			-
 			  #+BEGIN_QUOTE
@@ -22,13 +27,11 @@
 			- "Whom do we listen to?" ``NO``
 			- What should drive us in all our steps - the CENTER the voices.
 		- ^^PRINCIPLE 3^^
-		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  We prioritize design’s impact on the community over the intentions of the designer.
 			  #+END_QUOTE
 		- ^^PRINCIPLE 4^^
-		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  We view change as emergent from an accountable, accessible, and collaborative process, rather than as a point at the end of a process.
@@ -36,37 +39,31 @@
 			- The process is what matters.
 			- Means are as important as end.
 		- ^^PRINCIPLE 5^^
-		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  We see the role of the designer as a facilitator rather than an expert.
 			  #+END_QUOTE
 		- ^^PRINCIPLE 6^^
-		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  We believe that everyone is an expert based on their own lived experience, and that we all have unique and brilliant contributions to bring to a design process.
 			  #+END_QUOTE
 		- ^^PRINCIPLE 7^^
-		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  We share design knowledge and tools with our communities.
 			  #+END_QUOTE
 		- ^^PRINCIPLE 8^^
-		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  We work towards sustainable, community-led and -controlled outcomes.
 			  #+END_QUOTE
 		- ^^PRINCIPLE 9^^
-		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  We work towards non-exploitative solutions that reconnect us to the earth and to each other.
 			  #+END_QUOTE
 		- ^^PRINCIPLE 10^^
-		  collapsed:: true
 			-
 			  #+BEGIN_QUOTE
 			  Before seeking new design solutions, we look for what is already working at the community level. We honor and uplift traditional, indigenous, and local knowledge and practices.

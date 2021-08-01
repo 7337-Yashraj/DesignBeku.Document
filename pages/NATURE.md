@@ -1,5 +1,5 @@
 - TYPE
-  template:: Literature Notes
+  template:: [[Literature Notes]]
 - REFERENCES
   source:: DB Article ; Wikum - Collective Principles
   authors:: DB Individuals ; Participants
