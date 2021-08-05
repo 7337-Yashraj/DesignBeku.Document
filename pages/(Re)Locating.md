@@ -1,0 +1,11 @@
+### Questions of the outsider
+	- What will be our positionality as we Relocate
+		- Again the questions of how the dynamics in situations such work
+	- Situated-ness of work: an excellent antidote to creating "scalable" "impactful" "replicable" solutions
+	- If yet we create modular solutions, how do we make sure that we stick to the agreed upon ethos
+	- On what stage do we get the individuals into the co-designing process
+		- Who are they to "pass on the mic"
+			- Does the attitude depict a certain manner of saviour complex?
+		- Or Are they coming from a place of a saviour-complex
+	- Versioning( a deliberate crude manner of terming it as to understand how does Relocating happens over a period of time) - in an evolving place based network of care based on fragile relationships
+	-

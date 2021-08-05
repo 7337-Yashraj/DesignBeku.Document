@@ -12,7 +12,7 @@
 	- Learnings
 		- Can attitude and behaviours made into "HABITS"
 			- How does this learning transcend and transform
-			- Can should there be a check-list
+			- Should there be a check-list
 	- How does it differ across different perspectives - people who have worked on different projects
 	- Can and should I represent my learnings in the way of how I would now do the things differently
 	-

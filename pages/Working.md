@@ -13,6 +13,7 @@
 	- Lurking around
 	- Fragile relationships based on shared ideals of trust and care.
 	- Infrastructuring of community care.
+	- [[Roles]]
 	- [[Discussing(Implementing(Experimenting))]] - The manner of our functioning on a day to day basis
 	- [[Working with Client & Stakeholders]] - How do the participants and members think we can work with clients and stakeholders
 	- [[Deliberations and Discussions within]] - Discourses, and patterns of taking collective decesions

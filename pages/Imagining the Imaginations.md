@@ -1,0 +1,15 @@
+### Questions of the Outsider
+	- How are the imaginations facilitated
+		- How does it transpire on the ground
+		- What are the communications
+		- How is it explained
+		- How the factor of time plays-in
+	- Is there a bias in our minds as we approach the people to understand their imaginations about how they envision
+	- What is the ethos and character of the imaginations?
+	- How does the role of slow and fast come into the picture
+	- Why just imaginations - Constructing realities
+	- How does documentation happen here
+		- This is in regards to how work will be taken up
+			- As I understood how Naveen's work at MAYA --> How does this communicate with me
+	-
+	-

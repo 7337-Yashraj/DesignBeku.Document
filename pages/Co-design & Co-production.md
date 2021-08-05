@@ -1,0 +1,16 @@
+### Questions of the outsider
+	- How is the relationship between the producers?
+	- How do they deal with the different power dynamics?
+	- Is there a specific outcome that is kept in mind?
+		- If no outcomes, or preconceived expectations are present, how is this explained to the individuals who are a part of the Co-design process?
+	- How are the topics of ownership and rights kept in mind?
+		- Specifically dealing with artisan and artisan communities
+		- How are the issues of remuneration kept into consideration?
+			- Specifically when it is a volunteer lead projects/efforts?
+	- How does facilitation work on the ground. (Coming from the place of thinking the role of the designer to be more of a facilitator)
+		- Explanation to the participants/co-producers
+		- Is there still an individual who will be in the driver's seat?
+	- Are they in the learning mode, understanding it from the perspective on whom they collaborate with?
+		- How is it made sure that they will get the necessary credit?
+	- How do group dynamics play out over here?
+	-

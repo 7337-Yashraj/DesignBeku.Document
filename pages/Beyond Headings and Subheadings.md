@@ -4,10 +4,13 @@
 	- Work is an extension, of the individual, likewise the context that the individual exists also is represented onto the work.
 - Questions of Access -
 - Notion of Care
-- Existing in the in-between:
-- Presence of the non-projects
-- Persuade external factors to understand the manner of functioning
+	- The belief that this socio-political-corporate patriarchal machinery can be countered with practices and beliefs that are driven by feminist ethical frame of reference, is ever-present and influences every step and action.
+- Existing in the **in-between:**
+- Finding yourself of the ==non-projects==
+- **Persuade** external factors to understand the manner of functioning
+	- Is this an issue, if it is, should the accepted notions of communication be the way how communication occurs?
 - "...independent of those outside our communities giving meaning to the stories. Independent of them deciding whether or not our stories have value, of them deciding who gets the girl in the end."
 - "I’ve come to see that the chanting and marching are important, but it’s important to gather people in other ways, too; to circle and sit and tell the stories that aren’t told enough, to share the stories, to repeat and broadcast them, that they might strengthen. Sometimes I wonder whether it’s this work that matters most of all. Square-one work. The stories are what soften people, after all: open hearts so that it might be possible to think and see differently, so that we might find the fire to march at all..."
   collapsed:: true
 	-
+- That all questions wont have exact answers, and things don't function as question and answer
