@@ -8,10 +8,10 @@
 #### Literature Notes
 	- Do they have [["CORE PRINCIPLES"]]; if yes, what do they look like?
 	- [[Standing]] What are they standing for?
-	- [[Remembering]]- What do they remember and keep in mind?
+	- [[Remembering]] - What do they remember and keep in mind?
 	- [[Growing]] - What shapes do they take when they grow? How do they grow? How do they nurture themselves?
 	- [[Being]] - If the bird’s wings were a gift to the civilization, what did the bird get in return?
-	- [[Template]]
+	- [[Template 2]]
 #### Permanent Notes
 	- To understand how these thoughts and principles blend in together.
 	- Check [[ETHOS - PERMANENT NOTES]]

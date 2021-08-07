@@ -53,7 +53,6 @@
 			- The true aim of decolonization is "repatriation of Indigenous land and life."
 			- The current pop-discourse falls short of that, instead using it co-opt different progressive ideals, and a mere metaphor
 		- ### Our Assimilations and work
-			- asdsad
 			- #ReadThisQuote "..respond and be responsible for feminist politics in times of crisis means to stop for a moment, thick critically and create spaces of availability to engage with the problems that affect us as a community, as well as broader ones, acknowledging that some positions can respond more than others."
 			- This is about changing vantage points and understanding their own positions to navigate the work and interactions that they do.
 			-

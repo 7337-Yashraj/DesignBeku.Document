@@ -1,6 +1,6 @@
 public:: true
 
-## Weclome!!
+## Welcome!!
 	- This is a taxonomy of who Design Beku is, what they do as a collective, how do they do their work, and why is it they do what they do.
 	  now:: 1625709388112
 	  later:: 1625709386800

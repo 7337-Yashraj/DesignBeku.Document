@@ -1,4 +1,13 @@
-### Questions of the outsider
+- TAGS
+  template:: [[Literature Notes]]
+- REFERENCE
+  source:: Logic of Care – Annemarie Mol; Worldly Things – Ella Myers; Repair in Translation – Jenna Grant; Located Accountabilities in Technology Production – Lucy Suchman; Fragile Connections in Living a Feminist Life– Sara Ahmed; Feminist Methodologies – D. Thien
+  link:: https://designjustice.org/read-the-principles
+  summary:: How do the calls to decolonize design influence and aid in an Indian context
+- CATEGORIES
+  #TAG1 #TAG2
+- ## Contexts of use
+- ## Questions of the Outsider
 	- What will be our positionality as we Relocate
 		- Again the questions of how the dynamics in situations such work
 	- Situated-ness of work: an excellent antidote to creating "scalable" "impactful" "replicable" solutions
@@ -8,4 +17,14 @@
 			- Does the attitude depict a certain manner of saviour complex?
 		- Or Are they coming from a place of a saviour-complex
 	- Versioning( a deliberate crude manner of terming it as to understand how does Relocating happens over a period of time) - in an evolving place based network of care based on fragile relationships
-	-
+- ## Interpretation and Understanding
+## Literature Review
+	- ### Go to -
+		- [[Infrastructuring for community care]]
+		- [[Located Learning in the Peripheries]]
+		- [[Assumptions & Subjective Standards]]
+- ## External References, Links and Resources
+-
+  resource:: DB Fundamental Doc
+  author:: DB Team
+  link:: -NA-

@@ -5,7 +5,16 @@
   source:: Logic of Care – Annemarie Mol; Worldly Things – Ella Myers; Repair in Translation – Jenna Grant; Located Accountabilities in Technology Production – Lucy Suchman; Fragile Connections in Living a Feminist Life– Sara Ahmed; Feminist Methodologies – D. Thien
   link:: https://designjustice.org/read-the-principles
   summary:: Notes about the Principles of Design Justice Network
-### Questions Of the outsider
+- CATEGORIES
+  #TAG1 #TAG2
+## Contexts of use
+	- Central driver of how work is approached
+		- How things happen on a day to day basis
+		- What happens with how interactions take place?
+			- Between members of the collective
+			- With the people that they are involved with
+			- And whenever and whoever approaches them
+## Questions of the Outsider
 	- Care - what does it translate into?
 		- What does care mean? In the context of producing artefacts, design objects, and socio-technical systems?
 		- What role does the notion of care play, does it depend on
@@ -36,18 +45,17 @@
 			- Or is it radically reaffirming, changing your point of view and day to day practices?
 	- How does it function in an high-octane environment?
 	- What is the point
-### Context of use (Where does this function)
-	- Central driver of how work is approached
-		- How things happen on a day to day basis
-		- What happens with how interactions take place?
-			- Between members of the collective
-			- With the people that they are involved with
-			- And whenever and whoever approaches them
-## Readings - Logic of Care - Annemarie Mol
-	-
-	  #+BEGIN_QUOTE
-	  "...care for collectives tinkers with the conditions in which they live."
-	  #+END_QUOTE
-	- What is the role of care in the collective?
-		- In reference to how does it function, it is necessary to understand the term and meaning we give to the term "collective"
-			-
+## Interpretation and Understanding
+## Literature Review
+	- ### Readings - Logic of Care - Annemarie Mol
+		-
+		  #+BEGIN_QUOTE
+		  "...care for collectives tinkers with the conditions in which they live."
+		  #+END_QUOTE
+		- What is the role of care in the collective?
+			- In reference to how does it function, it is necessary to understand the term and meaning we give to the term "collective"
+## External References, Links and Resources
+-
+  resource:: Empathy as Faux Ethics
+  author:: Thomas Wendt
+  link:: https://www.epicpeople.org/empathy-faux-ethics/

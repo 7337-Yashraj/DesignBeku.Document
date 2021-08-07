@@ -1,12 +1,14 @@
-- What is the accountability for work? Accountability vs Liability
-	- To be involved and not to be involved || To be involved but not to be responsible
-- Relations with Individuals.
-	- Relations with Individuals.
-		- Trust the person and the intent and see where time takes us
-		- Maybe to collaborate with people who are personally invested in the project/ cause is a way to ensure accountability
-		- Could there be a way for people to offer ideas for projects without being "involved" in db to accountability?
-		- In a collective the accountability is to the context and outwardness of the work.
-	- When the collective is accountable for its work, how do we handle deadlines.
-	- How do you design for experience you have no cultural references to ?
-		- By opening up to what design could mean/meme. Since making practices are older than Design Pedagogy.
-	-
+- CATEGORIES
+  #TAG1 #TAG2
+- ## Discussions, Deliberations, Questions, and Answers.
+	- #### **What is the accountability for work? Accountability vs Liability**
+		- To be involved and not to be involved || To be involved but not to be responsible
+	- #### **Relations with Individuals.**
+		- ==Trust the person and the intent and see where time takes us==
+			- Maybe <ins>to collaborate with people who are personally invested in the project/ cause is a way to ensure accountability</ins>
+			- Could there be a way for people to offer ideas for projects without being "involved" in db to accountability?
+			- In a ==collective the accountability is to the context and outwardness of the work.==
+			- When the collective is accountable for its work, how do we handle deadlines.
+	- #### **How do you design for experience you have no cultural references to ?**
+		- By opening up to what design could mean/meme. ==Since making practices are older than Design Pedagogy.==
+		-
