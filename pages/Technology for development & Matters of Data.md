@@ -1,23 +1,35 @@
 - TAGS
   template:: [[Literature Notes]]
 - REFERENCE
-  source:: Logic of Care – Annemarie Mol; Worldly Things – Ella Myers; Repair in Translation – Jenna Grant; Located Accountabilities in Technology Production – Lucy Suchman; Fragile Connections in Living a Feminist Life– Sara Ahmed; Feminist Methodologies – D. Thien
-  link:: https://designjustice.org/read-the-principles
-  summary:: How do the calls to decolonize design influence and aid in an Indian context
+  source:: External Resources
+  link:: See below
+  summary:: What does technology for development mean
 - CATEGORIES
   #TAG1 #TAG2
-- ## Contexts of use
+## Contexts of use
+	- Critically looking and understanding technology and data management practices that influence design discourses and contemporary methodologies adopted to build "technology for social change"
+	- Using this to challenge, question, break, end the predatory practices followed
+	- Involving individuals and informing of these practices to people who are at the receiving end of these products and artefacts that are designed
+	- To borrow a title which perfectly orients what these section is about, "The future arrives earlier in Palo Alto but when its high noon there its already tomorrow in Asia..."
 ## Questions of the Outsider
 	- What does data privacy mean?
 	- Is there an effort to work towards establishing data privacy mental models through their work.
 		- Is there a way to persuade and inform the manner in which data extraction models work
-	- Is there a vocabulary to define and creation of communication artefacts that reach to the masses
+	- Is there a vocabulary to define and creation of communication artefacts that reach beyond the confines of academia and professional practices
 ## Interpretation and Understanding
 	- ### Understanding of Citizenship
 		- What are the perspectives of teachers
-	-
 ## Literature Reviewed
-	-
+	- ### Narrowing Data Localization Provisions
+	- ### Geopolitics of Data Localization
+	- ### Data Collection and management practices
+		- The hidden politics
+		- Data Ownership and Colonialism
+		- Informed Consent and Colonialism
+	- ### From Data sets to Data Settings
+	- ### Collections as Cases
+	- ### Local Methods and Goals
+	- ### Against Digital Universalism
 ## External References, Links and Resources
 -
   resource:: Data Colonialism: Critiquing Consent and Control in “Tech for Social Change” 

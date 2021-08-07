@@ -7,9 +7,17 @@
 ### Literature Notes
 - CATEGORIES
   #TAG1 #TAG2
-- ## Contexts of use
-- ## Questions of the Outsider
-- ## Interpretation and Understanding
+## Contexts of use
+	- These are the core values of Design Beku which align with that of the Design Justice Network
+	- These are the ideals which drive the way with which Design Beku functions
+## Questions of the Outsider
+	- What are the principles?
+	- How and when were they formulated?
+	- How does "Design," and "Justice" function together?
+	- Can a set of Principles collectively derived be replicable and used in contexts that are completely different?
+## Interpretation and Understanding
+	- These are a series of core values that Design Beku tries to remain attentive to
+	- It is necessary for an outsider to critically understand these ideas and what do they say
 ## Literature Review
 	- #### Principles of Design Justice Network
 		- #### The requirement for principles
@@ -91,7 +99,7 @@
 			  We believe that everyone is an expert based on their own lived experience, and that we all have unique and brilliant contributions to bring to a design process.
 			  #+END_QUOTE
 			- Lived Experience is a valid form of documented experience
-			- Getting away from the hegemonized, academic, theoretically
+			- Getting away from the hegemonized, academic, theoretically carved in stone that deny individual
 		- ^^PRINCIPLE 7^^
 			-
 			  #+BEGIN_QUOTE

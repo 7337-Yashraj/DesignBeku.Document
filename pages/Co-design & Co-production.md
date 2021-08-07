@@ -6,7 +6,10 @@
   summary:: How do the calls to decolonize design influence and aid in an Indian context
 - CATEGORIES
   #TAG1 #TAG2
-- ## Contexts of use
+## Contexts of use
+	- "... codesign becomes for them a [[care-in-practice]], an [[onto-epistemology]] enabling us to align with the local matters of concerns to collaboratively evolve systemic solutions enabled by, but not led by technology."
+	- Co-design and Co-production lies in the fundamental core of the way they work in contexts with collaborators
+	- To understand the values behind these collaboration practices; and see how it works in a day-to-day functioning
 ## Questions of the Outsider
 	- How is the relationship between the producers?
 	- How do they deal with the different power dynamics?

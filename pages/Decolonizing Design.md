@@ -1,8 +1,8 @@
 - TAGS
   template:: [[Literature Notes]]
 - REFERENCE
-  source:: Logic of Care – Annemarie Mol; Worldly Things – Ella Myers; Repair in Translation – Jenna Grant; Located Accountabilities in Technology Production – Lucy Suchman; Fragile Connections in Living a Feminist Life– Sara Ahmed; Feminist Methodologies – D. Thien
-  link:: https://designjustice.org/read-the-principles
+  source:: DB Fundamental Doc
+  link:: -NA-
   summary:: How do the calls to decolonize design influence and aid in an Indian context
 - CATEGORIES
   #TAG1 #TAG2
@@ -55,5 +55,21 @@
 		- ### Our Assimilations and work
 			- #ReadThisQuote "..respond and be responsible for feminist politics in times of crisis means to stop for a moment, thick critically and create spaces of availability to engage with the problems that affect us as a community, as well as broader ones, acknowledging that some positions can respond more than others."
 			- This is about changing vantage points and understanding their own positions to navigate the work and interactions that they do.
-			-
-	-
+- ## External References, Links and Resources
+-
+  resource:: Digital Dead End
+  author:: Virginia Eubanks
+  link:: https://cryptpad.fr/file/#/2/file/OuBOBPGOQcP42cWAu-+M0mXp/
+-
+  resource:: “Introduction: Cultural Production under Multiple Colonialisms.”
+  author:: Multiple Authors
+  link:: https://cryptpad.fr/file/#/2/file/sqofivT8+8ZHtBmso4zYPPGQ/
+-
+  later:: 1628359697071
+  resource:: Eating Heritage: Caste; Colonialism; and the Contestation of Adivasi Creativity
+  author:: Multiple Authors
+  link:: https://cryptpad.fr/file/#/2/file/s-UdE+mOjQj+rY8p4pqQJMRU/
+-
+  resource:: Decolonization is not a metaphor
+  author:: Multiple Authors
+  link:: https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf

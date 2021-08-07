@@ -6,8 +6,10 @@
   summary:: How do the calls to decolonize design influence and aid in an Indian context
 - CATEGORIES
   #TAG1 #TAG2
-- ## Contexts of use
-- ## Questions of the Outsider
+## Contexts of use
+	- The act of relocating the imaginations, and design processes to the very sight of where and by whom the design artefacts will be used
+	- Relocating Imaginations to places where situated care is practised deliberately,  intentionally
+## Questions of the Outsider
 	- What will be our positionality as we Relocate
 		- Again the questions of how the dynamics in situations such work
 	- Situated-ness of work: an excellent antidote to creating "scalable" "impactful" "replicable" solutions

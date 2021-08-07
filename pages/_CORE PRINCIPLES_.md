@@ -4,7 +4,7 @@
   source:: DB Fundamental Doc; DB Townhall Manifesto;
   authors:: The DB Team; Participants
   summary:: Questioning the concept of core principles and understanding the core principles that guide them on their engagements
-## What am I looking for
+- ## What am I looking for
 	- Identifying a certain sets of ideals that one adopts and which drives them ahead is how organizations and collectives function as they exist.
 	- How and what are the things that drive DB as a collective? Should there be a comprehensive list of the same?
 		- Some things that occurred to me for this:
@@ -12,24 +12,23 @@
 			- What do we leave out - it is obvious that we keep away from "Design - Thinking-esque" corporate problem solving mystique, solutionism, broad stroke solutions to "wicked problems"  ``BUT`` What are we leaving out also displays our politics, and whether are we being complicit in establishing structures of oppression through our actions
 			-
 			  see:: [[Solutionism and Problem Solving]]
-## Intent and Drive
-	- They draw from the [[feminist ethical frame of care]] , which is a ==situated== and
+- ## Intent and Drive
+	- In order to understand what is it that drives the manner in which Design Beku works with contexts, and collaborators, you can read through the different ideals, values, practices, questions, conflicts, that have been listed below:
 	- #### Signboard - Rabbit hole here (Enter at your own risk!) {This is yet a work in progress, would be edited as time progresses}
 		- Core values are aligned with that of - [[Principles of Design Justice Network]]
 		- Actions and steps are primarily influenced from - [[feminist ethical frame of care]]
-		- If not [[Empathy]] then Who?
 		- The intent is motivated by the call for - [[Decolonizing Design]]
 		- [[Matrix of Domination]] and other lies that the socialists tell you!! (just kidding.)
-		- Understanding [[matters of concern]]
+		- If not [[Empathy]] then Who?
 		- Engagements are done following the principles of [[Co-design & Co-production]]
-		- [[(Re)Locating]] of design into places where it is intended for use
-		- [[Imagining the Imaginations]] - The questions of WHOM
+			- [[(Re)Locating]] of design into places where it is intended for use
+			- [[Imagining the Imaginations]] - The questions of WHOM
 		- [[Technology for development & Matters of Data]]
 		- [[Template 2]]
 		  id:: 610b9c6e-f5e1-4752-8261-0306209b4f9e
 		- [[Template Main]]
 	- **HENCE**
-	  Work stems from the shared ideals, formulated lived experience from "... <ins>co-design</ins> becomes for us a  **care-in-practice,** an **onto-epistemology** enabling us ^^to align with the local matters of concerns^^ to ``collaboratively evolve systemic solutions, enabled by, but not led by technology.``" (quoting from:DB Fundamental Doc)
+	  Work stems from the shared ideals, best summed by this statement"... <ins>co-design</ins> becomes for us a  **care-in-practice,** an **onto-epistemology** enabling us ^^to align with the local matters of concerns^^ to ``collaboratively evolve systemic solutions, enabled by, but not led by technology.``" (quoting from:DB Fundamental Doc)
 ## The Principles That Drive Practice
 	- [[Infrastructuring for community care]] - Understanding through the work of Naveen what it means to relocate and situate care
 	- [[Located Learning in the Peripheries]] - Repurposing understandings

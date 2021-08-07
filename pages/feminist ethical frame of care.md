@@ -14,6 +14,7 @@
 			- Between members of the collective
 			- With the people that they are involved with
 			- And whenever and whoever approaches them
+		- Interactions between individuals, members, collaborators
 ## Questions of the Outsider
 	- Care - what does it translate into?
 		- What does care mean? In the context of producing artefacts, design objects, and socio-technical systems?
@@ -46,16 +47,114 @@
 	- How does it function in an high-octane environment?
 	- What is the point
 ## Interpretation and Understanding
+	- Again as pointed towards by Micah, this is something that is very descriptive in nature; against the prescriptive nature
+		- These things need to be felt, only through interactions, lived experiences and talking to people
 ## Literature Review
-	- ### Readings - Logic of Care - Annemarie Mol
+	- ### Quotes and what it made me feel
 		-
 		  #+BEGIN_QUOTE
 		  "...care for collectives tinkers with the conditions in which they live."
+		  -Annemarie mol
 		  #+END_QUOTE
 		- What is the role of care in the collective?
 			- In reference to how does it function, it is necessary to understand the term and meaning we give to the term "collective"
+		-
+		  #+BEGIN_QUOTE
+		  Neither the wave not the particle
+		  Neither the mob nor the loner
+		  But both, and more
+		  One and many,
+		  Hurtling through time
+		  The humans, the animals,
+		  The birds in the sky, the sky,
+		  The sun, the soil, the weather,
+		  The phones we hold,
+		  All the electricity buzzing around us
+		  Through time and temporality,
+		  Through histories and cycles,
+		  They come together to
+		  Matters of concern
+		  United but divided.
+		  #+END_QUOTE
+		-
+		  #+BEGIN_QUOTE
+		  “it is precisely the fact that our
+		  vision of the world is a vision from
+		  somewhere – that it is inextricably
+		  based in an embodied, and therefore
+		  partial, perspective – which makes
+		  us personally responsible for it.”
+		  -Lucy Suchman
+		  #+END_QUOTE
+		-
+		  #+BEGIN_QUOTE
+		  “democratic care is collaborative,
+		  expressed in joint action by plural
+		  participants. the practitioner of such
+		  care is never a self but always an
+		  association of selves. even more
+		  important, the recipient of care is
+		  not another person or even persons,
+		  but the world, understood as the
+		  array of material and immaterial
+		  conditions under which human
+		  beings live—both with one another
+		  and with a rich variety of
+		  nonhumans, organic and
+		  technological."
+		  -Ella Myers
+		  #+END_QUOTE
+		-
+		  #+BEGIN_QUOTE
+		  “rather than occupying the two
+		  positions simultaneously all of the
+		  time, what happens is more akin to
+		  an oscillation between observation
+		  and participation.”
+		  -Liz Bondi
+		  #+END_QUOTE
+		-
+		  #+BEGIN_QUOTE
+		  “the logic of care is definitely better geared to living with a diseased and unpredictable body... examine it, adapt it, fiddle with it, push and pull it, alter it, as and where this seems right. the logic of care as i articulate it here is not something to solidify or cast in stone. not at all! it is fluid and adaptable. but it is a good place to start from since, instead of addressing only the part of us that is healthy, it takes us seriously as we are, diseases and all. it seeks to nourish our bodies; respects the collectivities to which we belong; reacts forgivingly to our failures; and stubbornly strives for improvement, even if things keep on going wrong; though not beyond an (un-)certain limit, for in the end it will let go. although it is difficult to relate to one’s own suffering in a clinical way, learning to combine being active with being receptive does more than strengthening our capacity to care. for the ability to let go actively not only makes suffering easier to
+		  bear.”
+		  -Annemarie Mol
+		  #+END_QUOTE
+		-
+		  #+BEGIN_QUOTE
+		  “we can refuse to miss what we are
+		  deemed to be missing. we can share a
+		  refusal.”
+		  -Sara Ahmed
+		  #+END_QUOTE
+		-
+		  #+BEGIN_QUOTE
+		  “shattering: scattering. what is
+		  shattered so often is scattered,
+		  strewn all over the place. a history
+		  that is down, heavy, is also messy,
+		  strewn. the fragments: an assembly.
+		  in pieces. becoming army”
+		  -Sara Ahmed
+		  #+END_QUOTE
 ## External References, Links and Resources
 -
-  resource:: Empathy as Faux Ethics
-  author:: Thomas Wendt
-  link:: https://www.epicpeople.org/empathy-faux-ethics/
+  resource:: Living a Feminist Life
+  author:: Sarah Ahmed
+  link:: https://cryptpad.fr/file/#/2/file/3qTnM0Xpsy6DOL5vhfcGbV50
+-
+  resource:: Logic of Care – Annemarie Mol
+  author:: Annemarie Mol
+  link:: https://cryptpad.fr/file/#/2/file/3qTnM0Xpsy6DOL5vhfcGbV50
+-
+  resource:: Repair in Translation 
+  author:: Jenna Grant
+  link:: https://cryptpad.fr/file/#/2/file/wcR9Ar9W0F7N5acyA1vaffK-/
+-
+  later:: 1628357833364
+  resource:: Located Accountabilities in Technology
+  author:: Lucy Suchman
+  link:: https://cryptpad.fr/file/#/2/file/el1ExcSrw9oVTJl3dhcQn6k-/
+-
+  resource:: Feminist Methodologies
+  author:: D. Thien
+  link:: https://cryptpad.fr/file/#/2/file/Nmj7IfxTkL67zZBqbLejqnBm/
